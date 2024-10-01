@@ -5,5 +5,5 @@ if (valor > 0) {
 } else if (valor < 0) {
     alert("O valor é negativo.")
 } else {
-    alert("O valor é zero.")
+    alert("O valor é neutro.")
 }
