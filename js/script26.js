@@ -5,6 +5,6 @@ if (numero1 > numero2){
     alert(numero2 +", " + numero1)
 }
 else{
-    alert(numero1 +", " + numero12)
+    alert(numero1 +", " + numero2)
 
 }
